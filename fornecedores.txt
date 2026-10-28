@@ -1,0 +1,5 @@
+copy con fornecedores.txt
+Conte£do:
+001;Tech Distribuidora
+002;Info Atacado
+003;Digital Componentes
